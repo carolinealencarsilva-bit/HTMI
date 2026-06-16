@@ -1,1 +1,56 @@
-# HTMI
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+<html lang="pt-br">
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+<h1>Meu blog tech</h1>
+<p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
+</body>
+</html>
+<title>Blog</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<h2>Meu primeiro post</h2>
+<p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
+<p>Por: Marcelo Paludetto</p>
+<header>
+<h1>Meu blog tech</h1>
+<p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
+</header>
+<main>
+<h2>Meu primeiro post</h2>
+<p>Por: Marcelo Paludetto</p>
+<p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
+</main>
+<h1>Título principal</h1>
+<h2>Subtítulo</h2>
+<h3>Outro nível de título</h3>
+<p>Este é um parágrafo de texto.</p>
+<p>Podemos escrever quantos parágrafos quisermos.</p>
+<a href="https://www.wikipedia.org">Acessar o site</a>
+<img src="imagem.png" alt="Descrição da imagem">
+<ul>
+<li>Computador</li>
+<li>Teclado</li>
+<li>Mouse</li>
+</ul>
+<ol>
+<div>
+<p>Este conteúdo está dentro de uma divisão.</p>
+</div>
